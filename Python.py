@@ -7,8 +7,8 @@
 # Comma when u use 2 variables, sata types etc
 
 icebag = 1.25
-profit_margin = 0.2
+profit_margin = 0.25
 profit_per_bag = icebag * profit_margin
 no_of_bags = 500
 
-print(profit_per_bag * no_of_bags) 
+print(profit_per_bag * no_of_bags)
